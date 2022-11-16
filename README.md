@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Jongyeol91's github stats](https://github-readme-stats.vercel.app/api?username=jongyeol&show_icons=true)
+![Jongyeol91's github stats](https://github-readme-stats.vercel.app/api?username=Jongyeol Park&show_icons=true)
 <!--
 **Jongyeol91/Jongyeol91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
